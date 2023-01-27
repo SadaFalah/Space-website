@@ -1,0 +1,117 @@
+/* Color Palette */
+
+/* 
+#0B0D17 Black
+#D0D6F9 lighte blue
+#FFFFFF White 
+*/
+body {
+    background-color: #0B0D17;
+    color: #D0D6F9;
+    margin: 0;
+    padding: 0;
+    background-image: url(../assets/home/background-home-desktop.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Bellefair', serif;
+    font-size: 150px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'Bellefair', serif;
+    font-size: 100px;
+}
+
+h3 {
+    font-family: 'Bellefair', serif;
+    font-size: 56px;
+}
+
+h4 {
+    font-family: 'Bellefair', serif;
+    font-size: 32px;
+}
+
+h5 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 28px;
+    letter-spacing: 4.75px;
+    color: #D0D6F9;
+    text-transform: uppercase;
+}
+
+hr {
+    border: 1px solid;
+    width: 32%;
+    margin-left: 7%;
+    position: absolute;
+}
+
+/* Navbar */
+
+#navbar-section {
+    margin: 3%;
+    margin-right: 0;
+}
+
+
+.head-container {
+    backdrop-filter: blur(10px);
+    width: 63%;
+    background-color: #ffffff0e;
+    padding: 3rem 0;
+    position: relative;
+    left: 33%;
+}
+
+.ul-container {
+    position: absolute;
+    right: 7%;
+
+}
+
+.link {
+    color: #FFFFFF;
+    margin: 7px;
+    font-family: 'Barlow Condensed', sans-serif;
+    letter-spacing: 2.7px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.link-a:hover {
+    color: #FFFFFF;
+    border-bottom: 1px solid #ffffff;
+    /* padding-bottom: 48px; */
+    text-underline-offset: 8px;
+}
+
+/* Title */
+
+#title {
+    padding-left: 10%;
+    position: relative;
+    top: 7rem;
+}
+
+
+.button {
+    border-radius: 100%;
+    padding: 6rem 3.5rem;
+    font-size: 2rem;
+    font-family: 'Bellefair', 'serif';
+    text-transform: uppercase;
+    position: absolute;
+    right: 10%;
+}
+
+button:hover {
+    border-radius: 100%;
+    padding: 8rem 5.5rem;
+    background-color: #0b0d1756;
+
+}
