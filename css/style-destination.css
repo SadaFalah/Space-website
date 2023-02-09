@@ -8,6 +8,7 @@ h5 {
 
 .grey-color {
     color: gray;
+    margin-right: 12px;
 }
 
 .distance {
@@ -24,11 +25,14 @@ h5 {
     color: #ffffff;
 }
 
+.right-container {
+    margin-top: 90px;
+}
+
 .h2-title {
     color: #ffffff;
     text-transform: uppercase;
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 30px;
 }
 
 .destination-p {
@@ -75,5 +79,5 @@ h5 {
 }
 
 .moon-image {
-    margin: 80px 60px;
+    margin: 90px 60px 80px;
 }
