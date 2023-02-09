@@ -35,8 +35,18 @@ h5 {
     margin-bottom: 45px;
 }
 
-.link-second {
+.ul-second {
     padding-left: 0;
+}
+
+.link-second {
+
+    font-family: 'Barlow Condensed', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2.7px;
+    font-size: 16px;
+    padding-right: 18px;
+    color: #FFFFFF;
 }
 
 .link-a-second {
