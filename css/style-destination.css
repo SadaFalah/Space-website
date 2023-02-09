@@ -1,3 +1,69 @@
-body{
+body {
     background-image: url(../assets/destination/background-destination-desktop.jpg);
+}
+
+h5 {
+    color: #ffffff;
+}
+
+.grey-color {
+    color: gray;
+}
+
+.distance {
+    font-family: 'Barlow Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2.35;
+}
+
+.distance-number {
+    font-family: 'Bellefair', serif;
+    text-transform: uppercase;
+    font-size: 28px;
+    color: #ffffff;
+}
+
+.h2-title {
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.destination-p {
+    margin-bottom: 45px;
+}
+
+.link {
+    padding-left: 0;
+}
+
+.link-a-second {
+    color: #ffffff;
+}
+
+.link-a-second:hover {
+    text-decoration: underline 2px solid #ffffffb7;
+    text-underline-offset: 12px;
+    color: #ffffff;
+}
+
+.second-active {
+    text-decoration: underline 2px solid #ffffffb7;
+    text-underline-offset: 12px;
+}
+
+.not-active {
+    color: #D0D6F9;
+}
+
+.destination-hr {
+    width: 70%;
+    margin-bottom: 35px;
+    height: 2px;
+}
+
+.moon-image {
+    margin: 80px 60px;
 }
