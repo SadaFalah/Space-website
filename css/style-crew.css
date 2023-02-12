@@ -1,0 +1,44 @@
+body {
+    background: url(../assets/crew/background-crew-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h5 {
+    color: #ffffff;
+}
+
+.grey-color {
+    color: gray;
+    margin-right: 12px;
+}
+
+.crew-h4 {
+    text-transform: uppercase;
+    margin: 120px 0 10px;
+}
+
+.crew-h3{
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.crew-button{
+    border-radius: 100%;
+    width: 18px;
+    height: 18px;
+    margin: 120px 10px;   
+}
+
+.crew-image{
+    position: absolute;
+    bottom: 0;
+}
+
+.active-page{
+    background-color: #ffffff;
+}
+
+.notactive-page{
+    background-color: #ffffff2c;
+}
