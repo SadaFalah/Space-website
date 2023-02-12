@@ -18,27 +18,31 @@ h5 {
     margin: 120px 0 10px;
 }
 
-.crew-h3{
+.crew-h3 {
     color: #ffffff;
     text-transform: uppercase;
 }
 
-.crew-button{
+.crew-button {
     border-radius: 100%;
     width: 18px;
     height: 18px;
-    margin: 120px 10px;   
+    margin: 120px 10px;
 }
 
-.crew-image{
+.crew-button:hover {
+    background-color: #ffffff84;
+}
+
+.crew-image {
     position: absolute;
     bottom: 0;
 }
 
-.active-page{
+.active-page {
     background-color: #ffffff;
 }
 
-.notactive-page{
+.notactive-page {
     background-color: #ffffff2c;
 }
