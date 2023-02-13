@@ -4,23 +4,13 @@ body {
     background-repeat: no-repeat;
 }
 
-h5 {
-    color: #ffffff;
-}
-
 .grey-color {
     color: gray;
     margin-right: 12px;
 }
 
 .crew-h4 {
-    text-transform: uppercase;
     margin: 120px 0 10px;
-}
-
-.crew-h3 {
-    color: #ffffff;
-    text-transform: uppercase;
 }
 
 .crew-button {
