@@ -28,9 +28,11 @@ body {
     display: block;
 }
 
-/* .technology-button:hover {
+.technology-button:hover {
     border-color: #ffffff;
-} */
+    background-color: transparent;
+    color: #ffffff;
+}
 
 .header {
     font-family: 'Barlow Condensed', sans-serif;
