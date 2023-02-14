@@ -37,6 +37,7 @@ body {
 .header {
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 16px;
+    letter-spacing: 2.7px;
 }
 
 .technology-image {
